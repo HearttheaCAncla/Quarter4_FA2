@@ -1,0 +1,16 @@
+html {
+    zoom:200%;
+}
+
+.input {
+    display: table;
+}
+
+.num1, .p {
+    display:table-cell;
+}
+
+table, td {
+    border: 1px solid black;
+}
+ 
